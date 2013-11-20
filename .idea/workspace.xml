@@ -7,7 +7,7 @@
     <file path="/Gemfile" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1384934057623" ignored="false" />
     <file path="/database.yml" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1384927445021" ignored="false" />
     <file path="/Dummy.txt" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1384928257304" ignored="false" />
-    <file path="/contact_spec.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1384941494618" ignored="false" />
+    <file path="/contact_spec.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1384941914418" ignored="false" />
     <file path="/contact.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1384941422198" ignored="false" />
     <file path="/20131120074655_create_table_contact.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1384934360763" ignored="false" />
     <file path="/phone_spec.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1384937294692" ignored="false" />
@@ -51,10 +51,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact_spec.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="contact_spec.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spec/models/contact_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="57" selection-start="2247" selection-end="2247" vertical-scroll-proportion="0.0">
+            <state line="57" column="8" selection-start="2427" selection-end="2427" vertical-scroll-proportion="0.89987487">
               <folding />
             </state>
           </provider>
@@ -105,10 +105,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="contact.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/contact.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="62" selection-start="364" selection-end="364" vertical-scroll-proportion="0.2753442">
+            <state line="11" column="62" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -140,8 +140,8 @@
         <option value="$PROJECT_DIR$/spec/models/phone_spec.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20131120090617_add_many_to_many_relationship_table_contact_phone.rb" />
         <option value="$PROJECT_DIR$/app/models/phone.rb" />
-        <option value="$PROJECT_DIR$/spec/models/contact_spec.rb" />
         <option value="$PROJECT_DIR$/app/models/contact.rb" />
+        <option value="$PROJECT_DIR$/spec/models/contact_spec.rb" />
       </list>
     </option>
   </component>
@@ -685,6 +685,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/contact.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="62" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spec/models/phone_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="31" selection-start="251" selection-end="251" vertical-scroll-proportion="0.0">
@@ -701,14 +708,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/models/contact_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="57" selection-start="2247" selection-end="2247" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/contact.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="62" selection-start="364" selection-end="364" vertical-scroll-proportion="0.2753442">
+        <state line="57" column="8" selection-start="2427" selection-end="2427" vertical-scroll-proportion="0.89987487">
           <folding />
         </state>
       </provider>

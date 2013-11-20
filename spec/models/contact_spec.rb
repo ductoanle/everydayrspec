@@ -48,9 +48,15 @@ describe 'Contact' do
       @toan = Contact.create(first_name: "Duc Toan", last_name: "Le", email: "ductoanle@gmail.com")
       @envy = Contact.create(first_name: "Envy", last_name: "Homoculous", email: "envy@homoculous.com")
     end
-
-    it "should return contact with first name started with letter e" do
-      expect(Contact.by_letter('E')).to eq [@envy, @ethan]
+    context "matching letter" do
+      it "should return contact with first name started with letter e" do
+        expect(Contact.by_letter('E')).to eq [@envy, @ethan]
+      end
+    end
+    context "nonmatching letter" do
+      it "should not return contact first name that not start with letter e" do
+        expect(Contact.by_letter('E')).to_not include @toan
+      end
     end
   end
 end
