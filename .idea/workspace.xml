@@ -7,13 +7,49 @@
     <file path="/Gemfile" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1384934057623" ignored="false" />
     <file path="/database.yml" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1384927445021" ignored="false" />
     <file path="/Dummy.txt" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1384928257304" ignored="false" />
-    <file path="/contact_spec.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1384941914418" ignored="false" />
+    <file path="/contact_spec.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385117609073" ignored="false" />
     <file path="/contact.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1384941422198" ignored="false" />
     <file path="/20131120074655_create_table_contact.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1384934360763" ignored="false" />
     <file path="/phone_spec.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1384937294692" ignored="false" />
     <file path="/20131120084850_create_table_phone.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1384937568333" ignored="false" />
-    <file path="/phone.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1384940244166" ignored="false" />
+    <file path="/phone.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385117292513" ignored="false" />
     <file path="/20131120090617_add_many_to_many_relationship_table_contact_phone.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1384939668637" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Web/raynor/app/controllers/notifications_controller.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385107079804" ignored="false" />
+    <file path="/notifications_controller.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385106910671" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Web/raynor/spec/controllers/notifications_controller_spec.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385107047293" ignored="false" />
+    <file path="/notifications_controller_spec.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385105636403" ignored="false" />
+    <file path="/a.dummy" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385022814746" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Web/raynor/app/controllers/messages_controller.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385103261454" ignored="false" />
+    <file path="/messages_controller.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385101288897" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Web/raynor/app/helpers/application_helper.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385013301029" ignored="false" />
+    <file path="/application_helper.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385012951187" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Web/raynor/app/controllers/application_controller.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385090422605" ignored="false" />
+    <file path="/application_controller.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385013811824" ignored="false" />
+    <file path="/temp.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385013973022" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Web/raynor/app/models/message_sender.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385091108912" ignored="false" />
+    <file path="/message_sender.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385089081545" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Web/raynor/spec/models/message_sender_spec.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385021867314" ignored="false" />
+    <file path="/message_sender_spec.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385021001552" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Web/raynor/app/models/message" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385022627854" ignored="false" />
+    <file path="/message" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385022627854" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Web/raynor/app/models/message.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385103261455" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Web/raynor/spec/models/message_spec.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385103261455" ignored="false" />
+    <file path="/message_spec.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385089959284" ignored="false" />
+    <file path="/message.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385090039462" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Web/raynor/spec/controllers/home_controller_spec.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385086139738" ignored="false" />
+    <file path="/home_controller_spec.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385086138624" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Web/raynor/app/views/messages/show.html.erb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385100705809" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Web/raynor/spec/controllers/messages_controller_spec.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385103261455" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Web/raynor/log/development.log" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385107598285" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Web/raynor/Gemfile" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385103261455" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Web/raynor/app/views/notifications/_form.html.erb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385105360799" ignored="false" />
+    <file path="/_form.html.erb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385105360799" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Web/raynor/app/views/containers/edit.html.erb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385105353064" ignored="false" />
+    <file path="/edit.html.erb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385105350667" ignored="false" />
+    <file path="/contacts.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385112096180" ignored="false" />
+    <file path="/spec_helper.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385116095169" ignored="false" />
+    <file path="/20131122103658_add_new_column_contact_id.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385117029804" ignored="false" />
+    <file path="/phones.rb" changelist="e7ecf2c5-b143-407d-9f6f-e96744b99793" time="1385117831489" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,98 +68,79 @@
     <favorites_list name="everydayrspec" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="26" selection-start="141" selection-end="141" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="database.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/database.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="26" selection-start="650" selection-end="650" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contact_spec.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spec/models/contact_spec.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="8" selection-start="2427" selection-end="2427" vertical-scroll-proportion="0.89987487">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="phone_spec.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spec/models/phone_spec.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="31" selection-start="251" selection-end="251" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="20131120084850_create_table_phone.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db/migrate/20131120084850_create_table_phone.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="26" selection-start="161" selection-end="161" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="20131120090617_add_many_to_many_relationship_table_contact_phone.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db/migrate/20131120090617_add_many_to_many_relationship_table_contact_phone.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="55" selection-start="249" selection-end="257" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="phone.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/phone.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="6" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="20131120074655_create_table_contact.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db/migrate/20131120074655_create_table_contact.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="45" selection-start="191" selection-end="191" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contact.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/contact.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="62" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/application.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="20" selection-start="227" selection-end="240" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.41253382">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="contact.rb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/models/contact.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="1" column="6" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="phone.rb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/models/phone.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="2" column="38" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="phones.rb" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/spec/factories/phones.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="6" column="21" selection-start="185" selection-end="185" vertical-scroll-proportion="0.12072434">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="contacts.rb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/spec/factories/contacts.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="6" column="28" selection-start="145" selection-end="145" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="contact_spec.rb" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/spec/models/contact_spec.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="62" column="2" selection-start="2309" selection-end="2309" vertical-scroll-proportion="1.1609658">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="spec_helper.rb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="20" column="12" selection-start="768" selection-end="768" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="20131122103658_add_new_column_contact_id.rb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/db/migrate/20131122103658_add_new_column_contact_id.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="2" column="45" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -139,8 +156,12 @@
         <option value="$PROJECT_DIR$/db/migrate/20131120084850_create_table_phone.rb" />
         <option value="$PROJECT_DIR$/spec/models/phone_spec.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20131120090617_add_many_to_many_relationship_table_contact_phone.rb" />
-        <option value="$PROJECT_DIR$/app/models/phone.rb" />
+        <option value="$PROJECT_DIR$/spec/factories/contacts.rb" />
+        <option value="$PROJECT_DIR$/spec/spec_helper.rb" />
         <option value="$PROJECT_DIR$/app/models/contact.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20131122103658_add_new_column_contact_id.rb" />
+        <option value="$PROJECT_DIR$/app/models/phone.rb" />
+        <option value="$PROJECT_DIR$/spec/factories/phones.rb" />
         <option value="$PROJECT_DIR$/spec/models/contact_spec.rb" />
       </list>
     </option>
@@ -242,38 +263,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="factories" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="everydayrspec" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="everydayrspec" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="db" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="everydayrspec" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="everydayrspec" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="db" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="migrate" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -398,6 +387,26 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
     <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
@@ -548,12 +557,12 @@
     <frame x="0" y="22" width="2560" height="1330" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32927817" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17112733" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24781226" sideWeight="0.6707218" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11774065" sideWeight="0.8288727" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -636,27 +645,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/factories/phones.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/application.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="20" selection-start="227" selection-end="240" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/database.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="26" selection-start="650" selection-end="650" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="26" selection-start="141" selection-end="141" vertical-scroll-proportion="0.0">
@@ -664,30 +652,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20131120074655_create_table_contact.rb">
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="45" selection-start="191" selection-end="191" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/phone.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="6" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20131120090617_add_many_to_many_relationship_table_contact_phone.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="55" selection-start="249" selection-end="257" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/contact.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="62" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0">
+        <state line="27" column="9" selection-start="650" selection-end="650" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -701,14 +668,77 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20131120084850_create_table_phone.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="26" selection-start="161" selection-end="161" vertical-scroll-proportion="0.0">
+        <state line="5" column="18" selection-start="161" selection-end="161" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20131120090617_add_many_to_many_relationship_table_contact_phone.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="55" selection-start="249" selection-end="257" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20131120074655_create_table_contact.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="18" selection-start="191" selection-end="191" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/application.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="20" selection-start="227" selection-end="240" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/contact.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="6" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="12" selection-start="768" selection-end="768" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20131122103658_add_new_column_contact_id.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="45" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/phone.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="38" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/factories/contacts.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="28" selection-start="145" selection-end="145" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/factories/phones.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="21" selection-start="185" selection-end="185" vertical-scroll-proportion="0.12072434">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/models/contact_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="8" selection-start="2427" selection-end="2427" vertical-scroll-proportion="0.89987487">
+        <state line="62" column="2" selection-start="2309" selection-end="2309" vertical-scroll-proportion="1.1609658">
           <folding />
         </state>
       </provider>

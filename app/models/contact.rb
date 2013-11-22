@@ -1,5 +1,5 @@
 class Contact < ActiveRecord::Base
-  has_and_belongs_to_many :phones
+  has_many :phones
   attr_accessible :first_name, :last_name, :email
   validates :first_name, :last_name, :email, presence: true
   validates :email, uniqueness: true
